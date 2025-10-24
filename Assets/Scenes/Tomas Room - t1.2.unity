@@ -254,6 +254,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
         type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+        type: 3}
+    - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
+        type: 3}
       propertyPath: m_MatchOrientation
       value: 2
       objectReference: {fileID: 0}
@@ -1998,6 +2004,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
         type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+        type: 3}
+    - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
+        type: 3}
       propertyPath: m_MatchOrientation
       value: 2
       objectReference: {fileID: 0}
@@ -3615,6 +3627,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
         type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+        type: 3}
+    - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
+        type: 3}
       propertyPath: m_MatchOrientation
       value: 2
       objectReference: {fileID: 0}
@@ -4209,6 +4227,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
         type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+        type: 3}
+    - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
+        type: 3}
       propertyPath: m_MatchOrientation
       value: 2
       objectReference: {fileID: 0}
@@ -4594,6 +4618,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mat_Rect_Black (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
+        type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+        type: 3}
     - target: {fileID: 4791287626896408637, guid: 7d586b4a941812f4c96edf51d20fdc73,
         type: 3}
       propertyPath: m_MatchOrientation
@@ -6160,7 +6190,8 @@ MonoBehaviour:
   m_DistanceCalculationMode: 1
   m_SelectMode: 1
   m_FocusMode: 1
-  m_CustomReticle: {fileID: 0}
+  m_CustomReticle: {fileID: 8656087483511947524, guid: 664431fd30eefc544a290c4961b7679a,
+    type: 3}
   m_AllowGazeInteraction: 0
   m_AllowGazeSelect: 0
   m_OverrideGazeTimeToSelect: 0
